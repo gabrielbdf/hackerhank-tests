@@ -1,0 +1,6 @@
+C;C;coffee machine
+C;M;white sheet of paper
+C;V;Mobile phone
+S;M;plasticCup()
+S;C;LargeSoftwareBook
+S;V;pictureFrame
